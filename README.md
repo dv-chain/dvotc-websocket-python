@@ -1,2 +1,2 @@
 # dvotc-websocket-python
-This is a Python sample implementation for connecting to the dvotc websocket.
+This is a sample Python implementation for connecting to the dvotc websocket.
